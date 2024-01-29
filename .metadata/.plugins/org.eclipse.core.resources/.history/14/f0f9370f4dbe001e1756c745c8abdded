@@ -1,0 +1,7 @@
+package sub1;
+
+public class Account {
+	private String bank;
+	private String id;
+	private String bank;
+}
