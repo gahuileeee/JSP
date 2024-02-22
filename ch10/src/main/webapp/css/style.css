@@ -1,0 +1,17 @@
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+      /* 초기화 */
+    
+    ul, ol {list-style: none;}
+    a {text-decoration: none; color: #111;}
+
+    input, textarea {outline: none;}
+    *{ font-family: "Noto Sans KR", sans-serif;}
+    table th{
+            background-color: rgb(243, 213, 218);
+        }
+    a{border: 1px solid rgb(206, 171, 177);}
+    
+    table{
+    border-collapse: collapse;
+    margin-top:10px;
+    }

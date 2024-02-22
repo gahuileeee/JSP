@@ -10,8 +10,8 @@
 		<form action="./proc/userProc.jsp" method="get">
 		<input type="text" name="uid"><br>
 		<input type="text" name="name"><br>
-		<input type="text" name="age"><br>
 		<input type="text" name="addr"><br>
+		<input type="text" name="age"><br>
 		<input type="submit" value="전송"><br>
 		</form>
 	</body>

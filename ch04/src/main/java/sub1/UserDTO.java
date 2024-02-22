@@ -6,7 +6,9 @@ public class UserDTO {
 	private String hp;
 	private int age;
 	
-	
+	public UserDTO(){
+		
+	}
 	public UserDTO(String uid, String name, String hp, int age) {
 		this.uid = uid;
 		this.name = name;

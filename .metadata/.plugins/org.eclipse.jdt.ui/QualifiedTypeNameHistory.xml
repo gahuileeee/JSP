@@ -1,2 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="kr.co.jboard1.dao.UserDAO"/>
+    <fullyQualifiedTypeName name="kr.co.jboard1.dto.UserDTO"/>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="javax.sql.DataSource"/>
+    <fullyQualifiedTypeName name="kr.co.jboard1.dto.TermsDTO"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.protocol.Resultset"/>
+    <fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="kr.co.jboard1.db.DBHelper"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.Session"/>
+    <fullyQualifiedTypeName name="kr.co.jboard1.dto.ArticleDTO"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="kr.co.jboard1.db.SQL"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.nio.Buffer"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.Filter"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletContextListener"/>
+    <fullyQualifiedTypeName name="sub3.MyContextListener"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSessionListener"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebListener"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSessionAttributeListener"/>
+    <fullyQualifiedTypeName name="db.DBHelper"/>
+    <fullyQualifiedTypeName name="dao.User1DAO"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.User"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.modeler.modules.ModelerSource"/>
+    <fullyQualifiedTypeName name="dto.User1DTO"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="service.User1Service"/>
+    <fullyQualifiedTypeName name="dao.User2DAO"/>
+    <fullyQualifiedTypeName name="dto.User2DTO"/>
+    <fullyQualifiedTypeName name="dao.User3DAO"/>
+    <fullyQualifiedTypeName name="dto.User3DTO"/>
+    <fullyQualifiedTypeName name="dao.User4DAO"/>
+    <fullyQualifiedTypeName name="dto.User4DTO"/>
+    <fullyQualifiedTypeName name="dao.User5DAO"/>
+    <fullyQualifiedTypeName name="dto.User5DTO"/>
+</qualifiedTypeNameHistroy>

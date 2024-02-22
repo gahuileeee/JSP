@@ -1,0 +1,41 @@
+package ch7;
+
+public class FileDTO {
+	private int fno;
+	private String title;
+	private String oName;
+	private String sName;
+	private String rdate;
+	
+	public int getFno() {
+		return fno;
+	}
+	public void setFno(int fno) {
+		this.fno = fno;
+	}
+	public String getTitle() {
+		return title;
+	}
+	public void setTitle(String title) {
+		this.title = title;
+	}
+	public String getoName() {
+		return oName;
+	}
+	public void setoName(String oName) {
+		this.oName = oName;
+	}
+	public String getsName() {
+		return sName;
+	}
+	public void setsName(String nName) {
+		this.sName = nName;
+	}
+	public String getRdate() {
+		return rdate;
+	}
+	public void setRdate(String rdate) {
+		this.rdate = rdate;
+	}
+
+}
